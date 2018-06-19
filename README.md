@@ -12,7 +12,6 @@ Introduction
 
 What is this?
 =============
-![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
 I forked this theme and gave it functionality with PHP, MySQL, Twig, PHPUnit and other software and classes.
 
 ## Documentation & Installation Guide
