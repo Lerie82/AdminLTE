@@ -7,12 +7,8 @@ Introduction
 [![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
 
 **AdminLTE** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
-
-**Download & Preview on [AdminLTE.IO](https://adminlte.io)**
+**Download and preview original theme on [AdminLTE.IO](https://adminlte.io)**
 
 What is this?
 =============
 I forked this theme and gave it functionality with PHP, MySQL, Twig, PHPUnit and other software and classes.
-
-## Documentation & Installation Guide
-Visit the [online documentation](https://adminlte.io/docs) for the most updated guide.
