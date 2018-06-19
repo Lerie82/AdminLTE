@@ -10,5 +10,9 @@ Introduction
 
 **Download & Preview on [AdminLTE.IO](https://adminlte.io)**
 
+What is this?
+=============
+I forked this theme and gave it functionality with PHP, MySQL, Twig, PHPUnit and other software and classes.
+
 ## Documentation & Installation Guide
 Visit the [online documentation](https://adminlte.io/docs) for the most updated guide.
