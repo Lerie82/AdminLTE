@@ -1,0 +1,11 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteBase /AdminLTE/
+
+RewriteRule ^mail/?$ pages/mailbox/mailbox.html
+RewriteRule ^invoice/?$ pages/examples/invoice.html
+
+ErrorDocument 404 pages/examples/404.html
