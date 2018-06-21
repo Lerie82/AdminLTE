@@ -5,10 +5,7 @@ RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
 RewriteBase /AdminLTE/
 
+RewriteRule ^/?$ index.php
+RewriteRule ^index/?$ index.php
 RewriteRule ^mail/?$ pages/mailbox/mailbox.html
-RewriteRule ^invoice/?$ pages/examples/invoice.html
-RewriteRule ^profile/?$ pages/examples/profile.html
-RewriteRule ^login/?$ pages/examples/login.html
-RewriteRule ^register/?$ pages/examples/register.html
-
 ErrorDocument 404 pages/examples/404.html
