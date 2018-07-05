@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule ^$ index.php
+
+RewriteRule ^users/$ index.php?page=users
+RewriteRule ^users/manage$ index.php?page=users_manage
+RewriteRule ^users/settings$ index.php?page=users_settings
+
+RewriteRule ^site/settings$ index.php?page=site_settings
